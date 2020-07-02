@@ -1,0 +1,22 @@
+.Result{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+    width: 100%;
+    padding: 5% 0 5%;
+}
+.Correct{
+    background-color: green;
+}
+.Hot{
+    background-color: red;
+}
+.Warm{
+    background-color: yellow;
+}
+.Cold{
+    background-color: blue;
+}
+.None{
+    background-color: rgb(235, 235, 235);
+}
